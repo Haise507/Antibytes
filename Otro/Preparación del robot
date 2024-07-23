@@ -1,0 +1,23 @@
+En la preparación de nuestro robto usamos diversas herramientas, ideas y creatividades, capaces de hacer rendir y optimizar nuestro robot de la mejor forma posible 
+a medida que se nos presentan los problemas con el interactuar diarimente en nuestro robot, en donde pudimos abarcanos nosotros el Equipo Antibytes de una forma organizada, ejemplar y
+cooperativa en nuestra formación y transformación de las lluvias de ideas para nuestras mentes hacía el robot.
+
+1. Los materiales que llegamos a usar son:
+
+1.1 Arduino UNO o cualquier otra placa Arduino
+1.2 Chasis de robot (4 ruedas y placa)
+1.3 Motores DC o servomotores 
+1.4 Driver de motor L298N 
+1.5 Batería y soporte para batería (9V, packs de baterías recargables)
+1.6 Sensor de ultrasonidos HC-SR04 (para detección de obstáculos)
+1.7 Cables y conectores (cables jumper, conectores de batería, etc.)
+1.8 Protoboard (Era opcional, en donde se usaba para facilitar las conexiones)
+
+2. Herramientas u objetos que usamos: 
+
+2.1 Soldador o cautil y estaño (para conectar los cables)
+2.2 Destornilladores (para ensamblar los tornillos o tuercas en el chasis)
+2.3 Pinzas y alicates (para manejar cables y componentes pequeños)
+2.4 Exacto o cúter (Para cortar cables o piezas plasticas)
+2.5 Goma caliente
+2.7 Crazy glue (pegamento)
